@@ -3,4 +3,5 @@
     <string name="question_text">Choose the bigger number you think from the two numbers below.</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
+    <string name="point_text">Your point: %d</string>
 </resources>
